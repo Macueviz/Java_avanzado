@@ -1,4 +1,4 @@
-package PatronSingleton;
+package PatronSingleton_9_11;
 
 public class Bombilla {
     private static Bombilla bombilla;

@@ -1,4 +1,4 @@
-package PatronSingleton;
+package PatronSingleton_9_11;
 
 public class Singleton {
     private static Singleton singleton;

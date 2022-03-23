@@ -1,4 +1,4 @@
-package PatronSingleton;
+package PatronSingleton_9_11;
 
 public class Main {
 
@@ -8,6 +8,6 @@ public class Main {
 
     bombilla.encender();
     bombilla2.encender();
-        System.out.println(bombilla + " " + bombilla2);
+        System.out.println(bombilla + " " + bombilla2); //  espacio de memoria usado
     }
 }
